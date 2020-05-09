@@ -1,0 +1,5 @@
+venv
+.idea
+trained_models
+.DS_Store
+short_reviews
